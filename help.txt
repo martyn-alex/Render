@@ -1,0 +1,3 @@
+
+# Применить команду 
+$ git clone https://github.com/PHPOffice/PHPExcel.git
